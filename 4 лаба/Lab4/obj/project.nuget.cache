@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8NwaaUMxdnqw17lnk8ivnietVwlPAbiRdF4moNQRH82UzX7fY4kCIMFZ4DbDcrCbOLoZns0rF0mMUC9cGod3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Михаил Лагуновский\\Desktop\\учеба\\Весенний сем\\КМЗИ\\лабы\\Lab4\\Lab4\\Trisemus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил Лагуновский\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Михаил Лагуновский\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Михаил Лагуновский\\.nuget\\packages\\syncfusion.compression.net.core\\17.4.0.55\\syncfusion.compression.net.core.17.4.0.55.nupkg.sha512",
+    "C:\\Users\\Михаил Лагуновский\\.nuget\\packages\\syncfusion.licensing\\17.4.0.55\\syncfusion.licensing.17.4.0.55.nupkg.sha512",
+    "C:\\Users\\Михаил Лагуновский\\.nuget\\packages\\syncfusion.xlsio.net.core\\17.4.0.55\\syncfusion.xlsio.net.core.17.4.0.55.nupkg.sha512"
+  ],
+  "logs": []
+}

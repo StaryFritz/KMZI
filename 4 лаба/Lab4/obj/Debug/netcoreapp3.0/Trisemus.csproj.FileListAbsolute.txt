@@ -1,0 +1,33 @@
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.exe
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.deps.json
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.runtimeconfig.json
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.runtimeconfig.dev.json
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.pdb
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.csprojAssemblyReference.cache
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.AssemblyInfoInputs.cache
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.AssemblyInfo.cs
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.pdb
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\bin\Debug\netcoreapp3.0\Syncfusion.Compression.Portable.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\bin\Debug\netcoreapp3.0\Syncfusion.Licensing.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\bin\Debug\netcoreapp3.0\Syncfusion.XlsIO.Portable.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.csproj.CopyComplete
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.exe
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.deps.json
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.runtimeconfig.json
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.runtimeconfig.dev.json
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.dll
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\bin\Debug\netcoreapp3.0\Trisemus.pdb
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\bin\Debug\netcoreapp3.0\Syncfusion.Compression.Portable.dll
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\bin\Debug\netcoreapp3.0\Syncfusion.Licensing.dll
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\bin\Debug\netcoreapp3.0\Syncfusion.XlsIO.Portable.dll
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.csproj.AssemblyReference.cache
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.AssemblyInfoInputs.cache
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.AssemblyInfo.cs
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.csproj.CoreCompileInputs.cache
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.csproj.CopyComplete
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.dll
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.pdb
+C:\Users\Михаил Лагуновский\Desktop\учеба\Весенний сем\КМЗИ\лабы\Lab4\Lab4\obj\Debug\netcoreapp3.0\Trisemus.genruntimeconfig.cache
